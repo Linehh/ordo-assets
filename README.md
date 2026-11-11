@@ -22,3 +22,4 @@ ORDO LAB 브랜드 이미지 보관함 (노션 커버, 썸네일)
 | No. | 영상 | 파일 |
 |---|---|---|
 | 01 | 가계부 | thumbnails/reel-01-monthly-ledger.jpg |
+| 02 | 주간 보드 | thumbnails/reel-02-weekly-board.jpg |
